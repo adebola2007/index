@@ -37,26 +37,26 @@ console.log(obj.maya)
  console.log(obj)
 // const arr = [ 
 //      {name: "bola",
-//     gender : "female",
-//     dept : 2} ,
-//     "devMaya" ,
-//     2
+     gender : "female",
+  //  dept : 2} ,
+  // "devMaya" ,
+   // 2
 // ]
 
-// console.log(arr)
+//console.log(arr)
 
 // const arr2 = ["red", "blue" , "yellow"]
 
 // console.log(arr2)
 
-const arr3  = [2, 3 , 4, 5, 6]
+//const arr3  = [2, 3 , 4, 5, 6]
 
 
 
-console.log(arr3[3])
+console.log(arr3[2])
 
 const arr4 = ["green" , 4 , "blue"]
-console.log(arr4)
+console.log
 
 
 let jack  = false 
